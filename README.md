@@ -2,7 +2,7 @@
 
 ![Demo Video](media/demo.mp4)
 
-A new Flutter project.
+Click on the link ^ to view a demo
 
 ## Overview
 
@@ -35,36 +35,6 @@ A new Flutter project.
    flutter run
    ```
 
-## Features
-
-- **Local Authentication**: Integrates with biometrics for secure user login.
-- **Email Validation**: Built-in email validation for user input.
-- **URL Launcher**: Enables launching URLs from within the app.
-- **Material Design**: Uses Flutter’s Material Design for consistent UI across platforms.
-
-## Project Structure
-
-- `lib/` - Main source code for the Flutter application.
-- `android/` and `ios/` - Platform-specific code.
-- `assets/` - Contains image and media assets like icons.
-- `pubspec.yaml` - Configuration file for dependencies and assets.
-
-## Customizing the App Icon
-
-To customize the app icon, make sure you have an icon image in `assets/icon/` and follow these steps:
-
-1. Edit the `pubspec.yaml` to set the path to your icon:
-   ```yaml
-   flutter_icons:
-     android: true
-     ios: true
-     image_path: "assets/icon/icon.png"
-   ```
-   
-2. Run the command to generate the icons:
-   ```bash
-   flutter pub run flutter_launcher_icons:main
-   ```
 
 ## Developer Experience
 
