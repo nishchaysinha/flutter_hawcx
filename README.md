@@ -1,4 +1,3 @@
-```markdown
 # flutter_hawcx
 
 ![Demo Video](media/demo.mp4)
@@ -70,4 +69,3 @@ To customize the app icon, make sure you have an icon image in `assets/icon/` an
 ## Developer Experience
 
 *(To be filled in)*
-```
