@@ -1,8 +1,10 @@
 # flutter_hawcx
 
-![Demo Video](media/demo.mp4)
 
-Click on the link ^ to view a demo
+
+https://github.com/user-attachments/assets/4d9557f2-745e-4bb1-b129-bf3655a4afbc
+
+
 
 ## Overview
 
